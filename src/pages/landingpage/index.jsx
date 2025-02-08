@@ -80,7 +80,7 @@ const LandingPage = () => {
         <div className='com-text'>
           <p>The <span className='hf-text'>Technical Council</span> is a hub for innovation, collaboration, and technical excellence. We aim to foster a dynamic environment where students can explore emerging technologies, enhance their problem-solving skills, and build impactful projects. Through workshops, hackathons, mentorship programs, and community-driven initiatives, we empower individuals to grow, connect, and lead in the tech space. Whether you're a beginner or an experienced developer, there's always something to learn and contribute.</p>
           <br />
-          <h2>Join us today and take your coding skills to the next level with Code Companion.</h2>
+          <h2>Innovate, Implement, Inspire!</h2>
         
         </div>
       </div>
